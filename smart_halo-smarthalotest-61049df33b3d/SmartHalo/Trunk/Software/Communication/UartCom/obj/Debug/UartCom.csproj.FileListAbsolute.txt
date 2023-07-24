@@ -1,0 +1,5 @@
+C:\Projects\CycleLabs_Solutions\SmartHalo\Trunk\Software\Communication\UartCom\bin\Debug\SmartHalo.dll
+C:\Projects\CycleLabs_Solutions\SmartHalo\Trunk\Software\Communication\UartCom\bin\Debug\SmartHalo.pdb
+C:\Projects\CycleLabs_Solutions\SmartHalo\Trunk\Software\Communication\UartCom\obj\Debug\UartCom.csprojResolveAssemblyReference.cache
+C:\Projects\CycleLabs_Solutions\SmartHalo\Trunk\Software\Communication\UartCom\obj\Debug\SmartHalo.dll
+C:\Projects\CycleLabs_Solutions\SmartHalo\Trunk\Software\Communication\UartCom\obj\Debug\SmartHalo.pdb
